@@ -8,7 +8,7 @@
 ]]></description>
   <link>https://toshi-toma-sandbox.github.io</link>
   <generator>stand.fm</generator>
-  <lastBuildDate>Mon, 12 Sep 2022 08:56:26 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Sep 2022 06:16:50 GMT</lastBuildDate>
   <author><![CDATA[toma.fm テスト]]></author>
   <language><![CDATA[ja]]></language>
   <itunes:author>toma.fm テスト</itunes:author>
@@ -53,6 +53,32 @@
    <itunes:duration>00:00:14</itunes:duration>
    <itunes:image href="https://cdncf.stand.fm/images/01FXJCQ80K41389V9NQRXBFCXX.jpg?fit=cover&width=1400&height=1400"/>
    <itunes:title>テスト配信2</itunes:title>
+  </item>
+  <item>
+   <title><![CDATA[テスト配信3]]></title>
+   <description><![CDATA[
+    tomaです
+    よろしく
+    お願いします。
+    テスト配信３回目です！
+    https://stand.fm/
+    ]]></description>
+   <link>https://stand.fm/episodes/63201f1a19202bda26593d7a</link>
+   <guid isPermaLink="true">https://stand.fm/episodes/63201f1a19202bda26593d7a</guid>
+   <dc:creator><![CDATA[toma.fm テスト]]></dc:creator>
+   <pubDate>Tue, 13 Sep 2022 06:14:07 GMT</pubDate>
+   <enclosure url="https://cdncf.stand.fm/audios/01GCTQK1N7VZ9VDF4FWSJ0ANQM.m4a" length="0" type="audio/x-m4a"/>
+   <itunes:summary>
+    tomaです
+    よろしく
+    お願いします。
+    テスト配信３回目です！
+    https://stand.fm/
+    </itunes:summary>
+   <itunes:explicit>no</itunes:explicit>
+   <itunes:duration>00:00:14</itunes:duration>
+   <itunes:image href="https://cdncf.stand.fm/images/01FXJCQ80K41389V9NQRXBFCXX.jpg?fit=cover&width=1400&height=1400"/>
+   <itunes:title>テスト配信3</itunes:title>
   </item>
  </channel>
 </rss>
