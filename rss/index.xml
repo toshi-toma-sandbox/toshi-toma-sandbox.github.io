@@ -25,7 +25,7 @@
   <itunes:category text="Society &amp;amp; Culture">
    <itunes:category text="Philosophy"/>
   </itunes:category>
-  <itunes:image href="https://cdncf.stand.fm/assets/gradation_28.png"/>
+  <itunes:image href="https://cdncf.stand.fm/images/01FXJCQ80K41389V9NQRXBFCXX.jpg?fit=cover&width=1400&height=1400"/>
   <item>
    <title><![CDATA[テスト配信]]></title>
    <description><![CDATA[お試しテスト配信]]></description>
@@ -37,7 +37,7 @@
    <itunes:summary>お試しテスト配信</itunes:summary>
    <itunes:explicit>no</itunes:explicit>
    <itunes:duration>00:00:14</itunes:duration>
-   <itunes:image href="https://cdncf.stand.fm/assets/gradation_28.png"/>
+   <itunes:image href="https://cdncf.stand.fm/images/01FXJCQ80K41389V9NQRXBFCXX.jpg?fit=cover&width=1400&height=1400"/>
    <itunes:title>テスト配信</itunes:title>
   </item>
   <item>
@@ -51,7 +51,7 @@
    <itunes:summary>お試しテスト配信2</itunes:summary>
    <itunes:explicit>no</itunes:explicit>
    <itunes:duration>00:00:14</itunes:duration>
-   <itunes:image href="https://cdncf.stand.fm/assets/gradation_28.png"/>
+   <itunes:image href="https://cdncf.stand.fm/images/01FXJCQ80K41389V9NQRXBFCXX.jpg?fit=cover&width=1400&height=1400"/>
    <itunes:title>テスト配信2</itunes:title>
   </item>
  </channel>
